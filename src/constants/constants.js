@@ -13,7 +13,7 @@ export const projects = [
     title: "Bootstrap",
     description: "A simple website using bootstrap",
     image: "/images/15.png",
-    tags: ["React", "JavaScript"],
+    tags: ["Bootstrap", "JavaScript"],
     source: "https://hackinghoyt.netlify.app/",
     visit: "https://github.com/Hoyt1974/bootstrap",
     id: 4,
