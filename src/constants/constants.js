@@ -29,6 +29,16 @@ export const projects = [
     visit: "https://github.com/Hoyt1974/Video-Search",
     id: 1,
   },
+
+  {
+    title: "Bootstrap",
+    description: "A simple website using bootstrap",
+    image: "/images/bootstrap.png",
+    tags: ["React", "JavaScript"],
+    source: "https://hackinghoyt.netlify.app/",
+    visit: "https://hackinghoyt.netlify.app/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
