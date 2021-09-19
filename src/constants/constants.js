@@ -10,6 +10,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Bootstrap",
+    description: "A simple website using bootstrap",
+    image: "/images/15.png",
+    tags: ["React", "JavaScript"],
+    source: "https://hackinghoyt.netlify.app/",
+    visit: "https://github.com/Hoyt1974/bootstrap",
+    id: 4,
+  },
+  {
     title: "Next API",
     description:
       "Next.js App with links to News, Employee of the month and a Twitter link",
