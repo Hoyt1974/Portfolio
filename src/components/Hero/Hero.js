@@ -17,6 +17,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           <h3>Full Stack Web Developer</h3>
+          <img src="1.png" alt="Jason M. Hoyt" />
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>

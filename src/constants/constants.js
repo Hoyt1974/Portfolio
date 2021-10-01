@@ -3,7 +3,7 @@ export const projects = [
     title: "Youtube Search",
     description:
       "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
-    image: "/images/12.png",
+    image: "/images/maiden.png",
     tags: ["React", "JavaScript"],
     source: "https://videos-chi-lovat.vercel.app/",
     visit: "https://github.com/Hoyt1974/Video-Search",
@@ -45,7 +45,7 @@ export const projects = [
     tags: ["React", "WebRTC"],
     source: "https://to-dos1.netlify.app/",
     visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
-    id: 2,
+    id: 5,
   },
 ];
 
