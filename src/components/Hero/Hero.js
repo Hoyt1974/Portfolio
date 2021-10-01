@@ -16,9 +16,12 @@ const Hero = (props) => (
           <h2>Jason M. Hoyt</h2>
         </SectionTitle>
         <SectionText>
+          <img className="pro-img" src={"/images/0.jpeg"}></img>
+
+          <img className="pro-pic" src={"/images/me.jpeg"}></img>
           <h3>Full Stack Web Developer</h3>
-          <img src="1.png" alt="Jason M. Hoyt" />
         </SectionText>
+
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>

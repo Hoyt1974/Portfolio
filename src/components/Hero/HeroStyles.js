@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const LeftSection = styled.div`
   width: 100%;
@@ -15,5 +15,16 @@ export const LeftSection = styled.div`
     flex-direction: column;
 
     margin: 0 auto;
+  }
+  .pro-pic {
+    height: 10%;
+    width: 50%;
+    border-radius: 70%;
+    position: sticky;
+    padding: 0.25rem;
+  }
+  .pro-img {
+    position: static;
+    width: 28%;
   }
 `;
