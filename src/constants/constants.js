@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Youtube Search",
+    description:
+      "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
+    image: "/images/12.png",
+    tags: ["React", "JavaScript"],
+    source: "https://videos-chi-lovat.vercel.app/",
+    visit: "https://github.com/Hoyt1974/Video-Search",
+    id: 1,
+  },
+  {
     title: "Search Pictures",
     description:
       "A simple search engine for pictures. It uses the Unsplash API to search for pictures and display them in a grid.",
@@ -29,14 +39,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Youtube Search",
-    description:
-      "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
-    image: "/images/12.png",
-    tags: ["React", "JavaScript"],
-    source: "https://videos-chi-lovat.vercel.app/",
-    visit: "https://github.com/Hoyt1974/Video-Search",
-    id: 1,
+    title: "To-Do-App",
+    description: "A simple React To-Do-list",
+    image: "/images/todo.png",
+    tags: ["React", "WebRTC"],
+    source: "https://to-dos1.netlify.app/",
+    visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
+    id: 2,
   },
 ];
 
