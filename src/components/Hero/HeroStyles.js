@@ -17,10 +17,11 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
   .pro-pic {
+    // display: flex
     height: 10%;
-    width: 50%;
+    width: 30%;
     border-radius: 70%;
-    position: sticky;
+    position: absolute
     padding: 0.25rem;
   }
   .pro-img {

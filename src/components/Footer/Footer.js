@@ -25,7 +25,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="hoytjmatthews@gmail.com">
-            contact: hoytjmatthews@gmail.com
+            Contact: hoytjmatthews@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -41,9 +41,6 @@ const Footer = () => {
           </SocialIcons>
           <SocialIcons href="https://www.linkedin.com/feed/">
             <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://google.com">
-            <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

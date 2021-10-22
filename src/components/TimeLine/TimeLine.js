@@ -67,8 +67,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Frieking AWESOME!! <br />
-        If you do not believe me, Ask Me!!
+        I am a motivated, self-starting individual who welcomes obstacles and
+        challenges To test and grow my strengths and weaknesses. I look forward
+        to testing myself and expanding my knowledge.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

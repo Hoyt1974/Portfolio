@@ -20,8 +20,8 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       Technology experience: <br />
-      Front-end to Back-end, I've worked with a variety of languages and
-      frameworks.
+      Front-end, Full-Stack and Back-end, I've worked with a variety of
+      languages and frameworks.
     </SectionText>
     <List>
       <ListItem>
@@ -31,9 +31,14 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            JavaScript, React.js <br />
-            HTML, CSS, SASS, Bootstrap
+            Experiece with:
+            <br />
+            SwiftUi, Xcode
+            <br />
+            HTML, JavaScript,
+            <br />
+            React.js, Next.js, <br />
+            Angular
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +49,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experience with :<br />
+            Python, Django,
+            <br />
             Node and Databases <br />
             SQL, MongoDB, Firebase
           </ListParagraph>
@@ -56,7 +63,12 @@ const Technologies = () => (
         </picture>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
-          <ListParagraph></ListParagraph>
+          <ListParagraph>
+            Experience with: <br />
+            SwiftUi, Xcode,
+            <br /> CSS, SASS, <br />
+            Bootstrap
+          </ListParagraph>
         </ListContainer>
       </ListItem>
     </List>

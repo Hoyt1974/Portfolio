@@ -7,13 +7,7 @@ import {
 } from "../../styles/GlobalComponents";
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
-const data = [
-  { number: 2021, text: "Graduated Kenzie Academy" },
-  // { number: 20, text: 'Open Source Projects'},
-  // { number: 1000, text: 'Students', },
-  // { number: 1900, text: 'Github Followers', },
-  // { number: 5000, text: 'Github Stars', }
-];
+const data = [{ number: 2021, text: "Graduated Kenzie Academy" }];
 
 const Acomplishments = () => (
   <Section>

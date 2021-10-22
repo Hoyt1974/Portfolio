@@ -16,9 +16,8 @@ const Hero = (props) => (
           <h2>Jason M. Hoyt</h2>
         </SectionTitle>
         <SectionText>
+          <img className="pro-pic" src={"/images/me1.jpeg"}></img>
           <img className="pro-img" src={"/images/0.jpeg"}></img>
-
-          <img className="pro-pic" src={"/images/me.jpeg"}></img>
           <h3>Full Stack Web Developer</h3>
         </SectionText>
 
