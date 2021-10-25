@@ -51,6 +51,5 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: "Enrolled Kenzie Academy" },
   { year: 2021, text: "Graduated Kenzie, Now Journey to Legendary Begins !!!" },
 ];
