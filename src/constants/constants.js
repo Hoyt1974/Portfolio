@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "To-Do-App",
+    description: "A simple React To-Do-list",
+    image: "/images/todo.png",
+    tags: ["React", "WebRTC"],
+    source: "https://to-dos1.netlify.app/",
+    visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
+    id: 5,
+  },
+  {
+    title: "Bootstrap",
+    description: "A simple website using bootstrap",
+    image: "/images/resize.png",
+    tags: ["Bootstrap", "JavaScript"],
+    source: "https://hackinghoyt.netlify.app/",
+    visit: "https://github.com/Hoyt1974/bootstrap",
+    id: 4,
+  },
+  {
     title: "Search Pictures",
     description:
       "A simple search engine for pictures. It uses the Unsplash API to search for pictures and display them in a grid.",
@@ -18,24 +36,6 @@ export const projects = [
     source: "https://next-news-kappa.vercel.app/",
     visit: "https://github.com/Hoyt1974/Next-News",
     id: 2,
-  },
-  {
-    title: "Bootstrap",
-    description: "A simple website using bootstrap",
-    image: "/images/15.png",
-    tags: ["Bootstrap", "JavaScript"],
-    source: "https://hackinghoyt.netlify.app/",
-    visit: "https://github.com/Hoyt1974/bootstrap",
-    id: 4,
-  },
-  {
-    title: "To-Do-App",
-    description: "A simple React To-Do-list",
-    image: "/images/todo.png",
-    tags: ["React", "WebRTC"],
-    source: "https://to-dos1.netlify.app/",
-    visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
-    id: 5,
   },
 
   {
