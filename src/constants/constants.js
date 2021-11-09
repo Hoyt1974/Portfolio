@@ -1,14 +1,5 @@
 export const projects = [
   {
-    title: "To-Do-App",
-    description: "A simple React To-Do-list",
-    image: "/images/todo.png",
-    tags: ["React", "WebRTC"],
-    source: "https://to-dos1.netlify.app/",
-    visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
-    id: 5,
-  },
-  {
     title: "Bootstrap",
     description: "A simple website using bootstrap",
     image: "/images/resize.png",
@@ -16,6 +7,15 @@ export const projects = [
     source: "https://hackinghoyt.netlify.app/",
     visit: "https://github.com/Hoyt1974/bootstrap",
     id: 4,
+  },
+  {
+    title: "To-Do-App",
+    description: "A simple React To-Do-list",
+    image: "/images/todo.png",
+    tags: ["React", "WebRTC"],
+    source: "https://to-dos1.netlify.app/",
+    visit: "https://gitlab.com/Hoyt1974/todo-app-pt-1",
+    id: 5,
   },
   {
     title: "Search Pictures",
@@ -27,17 +27,6 @@ export const projects = [
     visit: "https://github.com/Hoyt1974/Pics",
     id: 0,
   },
-  // {
-  //   title: "Next API",
-  //   description:
-  //     "Next.js App with links to News, Employee of the month and a Twitter link",
-  //   image: "/images/13.png",
-  //   tags: ["React", "WebRTC"],
-  //   source: "https://next-news-kappa.vercel.app/",
-  //   visit: "https://github.com/Hoyt1974/Next-News",
-  //   id: 2,
-  // },
-
   {
     title: "Youtube Search",
     description:
@@ -47,6 +36,16 @@ export const projects = [
     source: "https://videos-chi-lovat.vercel.app/",
     visit: "https://github.com/Hoyt1974/Video-Search",
     id: 1,
+  },
+  {
+    title: "Next API",
+    description:
+      "Next.js App with links to News, Employee of the month and a Twitter link",
+    image: "/images/13.png",
+    tags: ["React", "WebRTC"],
+    source: "https://next-news-kappa.vercel.app/",
+    visit: "https://github.com/Hoyt1974/Next-News",
+    id: 2,
   },
 ];
 
