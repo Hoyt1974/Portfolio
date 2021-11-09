@@ -27,16 +27,16 @@ export const projects = [
     visit: "https://github.com/Hoyt1974/Pics",
     id: 0,
   },
-  {
-    title: "Next API",
-    description:
-      "Next.js App with links to News, Employee of the month and a Twitter link",
-    image: "/images/13.png",
-    tags: ["React", "WebRTC"],
-    source: "https://next-news-kappa.vercel.app/",
-    visit: "https://github.com/Hoyt1974/Next-News",
-    id: 2,
-  },
+  // {
+  //   title: "Next API",
+  //   description:
+  //     "Next.js App with links to News, Employee of the month and a Twitter link",
+  //   image: "/images/13.png",
+  //   tags: ["React", "WebRTC"],
+  //   source: "https://next-news-kappa.vercel.app/",
+  //   visit: "https://github.com/Hoyt1974/Next-News",
+  //   id: 2,
+  // },
 
   {
     title: "Youtube Search",
