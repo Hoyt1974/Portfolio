@@ -28,16 +28,6 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Youtube Search",
-    description:
-      "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
-    image: "/images/m2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://videos-chi-lovat.vercel.app/",
-    visit: "https://github.com/Hoyt1974/Video-Search",
-    id: 1,
-  },
-  {
     title: "Next API",
     description:
       "Next.js App with links to News, Employee of the month and a Twitter link",
@@ -46,6 +36,16 @@ export const projects = [
     source: "https://next-news-kappa.vercel.app/",
     visit: "https://github.com/Hoyt1974/Next-News",
     id: 2,
+  },
+  {
+    title: "Youtube Search",
+    description:
+      "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
+    image: "/images/m2.png",
+    tags: ["React", "JavaScript"],
+    source: "https://videos-chi-lovat.vercel.app/",
+    visit: "https://github.com/Hoyt1974/Video-Search",
+    id: 1,
   },
 ];
 
