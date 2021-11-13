@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: "To-Do-App",
-    description: "A simple React To-Do-list",
+    description: "A simple To-Do-list, built with React",
     image: "/images/todo.png",
     tags: ["React", "WebRTC"],
     source: "https://to-dos1.netlify.app/",
