@@ -38,10 +38,20 @@ export const projects = [
     id: 2,
   },
   {
+    title: "Passenger Train",
+    description:
+      "A simple people counter for passengers boarding and deboarding a train. App uses HTML, CSS and JavaScript.",
+    image: "/images/Train.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source: "https://hoytcoding-train.netlify.app/",
+    visit: "https://github.com/Hoyt1974/Train",
+    id: 3,
+  },
+  {
     title: "Youtube Search",
     description:
       "A simple search engine for youtube videos. It uses the Youtube API to search for videos and display them in a grid.",
-    image: "/images/m2.png",
+    image: "/images/Maiden1.png",
     tags: ["React", "JavaScript"],
     source: "https://videos-chi-lovat.vercel.app/",
     visit: "https://github.com/Hoyt1974/Video-Search",
