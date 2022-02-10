@@ -31,7 +31,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with:
+            Experience with:
             <br />
             SwiftUi, Xcode
             <br />
