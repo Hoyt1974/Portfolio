@@ -61,4 +61,5 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2021, text: "Graduated Kenzie, Now Journey to Legendary Begins !!!" },
+  { year: 2022, text: "Started training at Catalyte"}
 ];
