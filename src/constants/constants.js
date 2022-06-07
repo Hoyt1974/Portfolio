@@ -60,7 +60,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
+  { year: 2020, text: "Started my journey to become a Full Stack Developer" },
   { year: 2021, text: "Graduated Kenzie, Now Journey to Legendary Begins !!!" },
-  <br/>,
-  { year: 2022, text: "Started training at Catalyte"}
+  { year: 2022, text: "Started training at Catalyte" },
 ];
