@@ -22,7 +22,7 @@ export const LeftSection = styled.div`
     width: 30%;
     border-radius: 70%;
     position: absolute
-    padding: 0.5rem;
+    padding: 1.5rem;
    
   }
   .pro-img {
