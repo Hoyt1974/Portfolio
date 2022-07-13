@@ -14,7 +14,7 @@ export const LeftSection = styled.div`
     display: flex;
     flex-direction: column;
 
-    margin: 0 auto;
+    margin: 5px;
   }
   .pro-pic {
     // display: flex
